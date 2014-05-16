@@ -24,12 +24,6 @@
 		"contao/core":">=3",
 		"contao-community-alliance/composer-installer":"*",
 	},
-	"autoload":
-	{
-	},
-	"replace":
-	{
-	},
 	"extra":
 	{
 		"contao":
