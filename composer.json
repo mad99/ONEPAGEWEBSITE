@@ -30,7 +30,7 @@
 		{
 			"sources":
 			{
-				"":"system/modules/onepagewebsite"
+				"system/modules/onepagewebsite":"system/modules/onepagewebsite"
 			}
 		}
 	}
